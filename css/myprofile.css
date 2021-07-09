@@ -1,0 +1,19 @@
+#a {
+    text-align: center;
+    color:rebeccapurple;
+    font-size: 30px;
+}
+
+div {
+    text-align: center;
+    border: 10px solid rgb(116, 22, 22);
+    background-color:rgb(252, 222, 178);
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
